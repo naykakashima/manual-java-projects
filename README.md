@@ -1,4 +1,4 @@
-# manual-csharp-projects
+# manual-java-projects
 
 This repository is a curated collection of Java applications I built **entirely without the use of AI tools**. These projects were created to reinforce my understanding of the language itself, object-oriented design, and programming principles — through **deliberate manual effort and problem solving**.
 
