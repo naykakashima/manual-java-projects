@@ -31,7 +31,7 @@ As I continue to grow as a developer, this repository will expand to include:
 
 - MVC-style patterns  
 - Authentication logic  
-- Blazor apps
+- More advanced topics
 
 ---
 
