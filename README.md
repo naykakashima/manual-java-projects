@@ -13,6 +13,7 @@ This is a similar repository to my ```manual-csharp-projects```
 | Folder | Project Name | Focus |
 |--------|--------------|-------|
 | `01-SimpleExpenseTracker` | [Simple Expense Tracker](./01-SimpleExpenseTracker) | OOP Java basics, input validation, serialisation/deserialisation |
+| `02-MiniTodoApi` | [Mini Todo Api](./02-MiniTodoApi) | Springboot basics, API creation, project structure |
 
 ---
 
